@@ -55,7 +55,7 @@ h2 {
 
 </style>
 <link rel="shortcut icon" type="image/x-icon" href="imagens/logo.png" />
-  <title>Tn-Masters</title>
+  <title>Tn-sports</title>
 </head>
 <body>
 

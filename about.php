@@ -50,7 +50,7 @@
   }
   </style>
   <link rel="shortcut icon" type="image/x-icon" href="imagens/logo.png" />
-    <title>Tn-Masters</title>
+    <title>Tn-sports</title>
   </head>
   <body>
 
@@ -65,16 +65,16 @@
 
   <a><img src="C:\xampp\htdocs\Tn-Masters\win.jpg" width="100%" height="800px"></a>
   
- Tn-Masters player holding a trophy after winning a championship.<br>
+ Tn-sports player holding a trophy after winning a championship.<br>
 Tn-Masters is a world-renowned professional gaming organization established in 2000.
 <br> Since the beginning of our activities, we have dominated the general gaming scene and with that
 we have become a complete team, fully respected in the E-Sports area.
 
-<br> With more than 60 championships won and the best players in the world, Tn-Masters
+<br> With more than 60 championships won and the best players in the world, Tn-sports
 is synonymous with success. Our teams won the biggest prize in the history of E-sports
 and are collecting trophies and titles around the world.
 
-Today, Tn-Masters remains a leader in all championships with innovation and intelligence, one of the biggest
+Today, Tn-sports remains a leader in all championships with innovation and intelligence, one of the biggest
 of Brazil currently. 
 
   

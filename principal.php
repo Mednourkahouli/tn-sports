@@ -50,7 +50,7 @@ table, th, td {
 
 </style>
 <link rel="shortcut icon" type="image/x-icon" href="imagens/logo.png" />
-  <title>Tn-Sports</title>
+  <title>Tn-sports</title>
 </head>
 <body>
 
